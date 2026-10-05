@@ -1,8 +1,10 @@
-+ Inj >> v1.1.pf
-+ Module >> v1.0.pf
-+ Updated to version-02c37bc51a384b8f
-+ New UI ( Credits to vinesslimites from Ui ) 
-+ Raknet added (For Desync Users on Sab)
-- Sorry For Big Delay... 
-- Crashes can still happen in this update
-- Irish is detected Currently Next update will go back to being Undetected
++ New Injector (UserMode)
++ Added the Hyperion Emulator
++ Added Register and Login to the UI
++ Added luau-lsp
++ Added Discord rpc
++ New Installer added To always download the new updates
++ Patched ApiSploits (Note: For Security Only)
+- Fixed crashes
+- Fixed (Injector Failed)
+- Fixed All Errors in Module & Injector
